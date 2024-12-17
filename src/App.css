@@ -1,0 +1,17 @@
+.container {
+    gap: 20px;
+    display: contents;
+}
+.container  img {
+    width: 250px;
+    height: 180px;
+    border-radius: 10px 0px 0px 10px;
+}
+.cards {
+    border-radius: 10px;
+    background-color: whitesmoke;
+    overflow: hidden;
+    border: solid 1px;
+    border-color: gray;
+
+}
